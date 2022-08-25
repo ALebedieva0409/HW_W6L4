@@ -1,0 +1,85 @@
+h1 {
+  color: orange;
+  font-family: "PT mono", monospace;
+  font-weight: strong;
+  text-align: center;
+  font-size: 50px;
+}
+h2 {
+  font-family: "PT mono", monospace;
+  display: block;
+  padding-left: 60px;
+}
+.mb-3 {
+  display: block;
+  margin: 40px auto;
+  padding: 0px 50px 0px 50px;
+  text-align: center;
+  font-family: "PT mono", monospace;
+}
+label {
+  font-weight: 900;
+}
+.btn-primary {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+img {
+  size: 100px;
+}
+.temperature {
+  text-align: center;
+  color: red;
+  font-size: 60px;
+  font-family: "PT mono", monospace;
+  font-weight: 900;
+}
+.units {
+  text-align: center;
+  color: red;
+  font-size: 60px;
+  font-family: "PT mono", monospace;
+  font-weight: 900;
+}
+.card-city {
+  text-align: center;
+  color: blue;
+  font-size: 50px;
+  font-family: "PT mono", monospace;
+  font-weight: strong;
+}
+.card-texts {
+  font-family: "PT mono", monospace;
+  text-align: left;
+  font-size: 20px;
+}
+.card-date {
+  text-align: center;
+  font-size: 22px;
+  font-family: "PT mono", monospace;
+}
+.card-title {
+  text-align: center;
+  color: orangered;
+  font-size: 30px;
+  font-family: "PT mono", monospace;
+}
+.card-text {
+  text-align: center;
+  font-size: 18px;
+  font-family: "PT mono", monospace;
+}
+.col {
+  text-align: left;
+  color: grey;
+  font-size: 18px;
+  font-family: "PT mono", monospace;
+}
+.card-header {
+  text-align: center;
+}
+.card-img-center {
+  display: block;
+  margin: 0 auto;
+}
